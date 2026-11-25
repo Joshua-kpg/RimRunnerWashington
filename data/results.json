@@ -1,4 +1,33 @@
 {
  "about": "RimRunnerWashington 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
- "finals": {}
+ "finals": {
+  "047c804e-033d-4d59-af17-1fe7bd597f57": {
+   "awayMp": "0a5ae530-1e21-4a32-adac-e2a3fb2885d1",
+   "awayScore": 78,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "wa26-0091",
+   "homeMp": "96c7ca4e-de51-44f1-8dd2-45b2ba713c15",
+   "homeScore": 32,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
+  "c6094d69-bd1c-4d63-ad85-f41af64baf01": {
+   "awayMp": "e592c4ec-5463-4621-8372-764b6bcaf7d7",
+   "awayScore": 35,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "wa26-x001",
+   "gameType": "non-conference",
+   "homeMp": "53e272a1-7e4f-4205-a627-c0b5ca7cee12",
+   "homeScore": 13,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  }
+ }
 }
