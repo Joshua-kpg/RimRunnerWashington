@@ -97,6 +97,21 @@
    "state": "applied",
    "verified": true,
    "winner": "away"
+  },
+  "f1aba700-e440-4a9e-ac97-361bf4c33138": {
+   "awayMp": "7c3d13ca-192f-4900-97f0-fb1442f6e32a",
+   "awayScore": 56,
+   "date": "2026-11-25",
+   "forfeit": false,
+   "gameId": "wa26-x004",
+   "gameType": "non-conference",
+   "homeMp": "9bad1f8a-067a-4622-a348-58e2f9f9842e",
+   "homeScore": 57,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
   }
  }
 }
